@@ -13,6 +13,7 @@ Hi, my name is Roma, I am student from ukraine, studying at a STU(slovak technic
 <img align="center" width="60px" height="60px" src = "https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
 <img align="center" width="60px" height="60px" src = "https://www.codeplanet.co.in/images/c-.png">
 <img align="center" width="60px" height="60px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png">
+<img align="center" width="60px" height="60px" src = "https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png">
 <img align="center" width="60px" height="60px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
 </div>
 
